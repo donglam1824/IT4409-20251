@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Đăng Ký</title>
+</head>
+<body>
+    <header>
+        <h1>Trang Web IT4409</h1>
+        <nav>
+            <a href="#intro">Giới thiệu</a> | 
+            <a href="#form">Đăng ký</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="form">
+            <h2>Đăng ký thông tin</h2>
+            <form method="post">
+                <fieldset>
+                    <legend>Thông tin cá nhân</legend>
+                    <label>Họ và tên: <input type="text" name="fullname" required></label><br><br>
+                    <label>Email: <input type="email" name="email" required></label><br><br>
+                    <label>Số điện thoại: <input type="tel" name="phone" required></label><br><br>
+                    <label>Giới tính: 
+                        <select name="gender" required>
+                            <option value="">-- Chọn --</option>
+                            <option value="male">Nam</option>
+                            <option value="female">Nữ</option>
+                        </select>
+                    </label><br><br>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Thông tin đăng nhập</legend>
+                    <label>Tên đăng nhập: <input type="text" name="username" required></label><br><br>
+                    <label>Mật khẩu: <input type="password" name="password" required></label><br><br>
+                    
+                    <label>Ghi chú:</label><br>
+                    <textarea name="notes" rows="3" cols="30"></textarea><br><br>
+                </fieldset>
+
+                <input type="submit" value="Đăng ký">
+                <input type="reset" value="Xóa">
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 IT4409 - MSSV: 20225027</p>
+    </footer>
+</body>
+</html>
