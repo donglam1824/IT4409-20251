@@ -1,0 +1,6 @@
+-Tạo file HTML mới với cấu trúc cơ bản bao gồm DOCTYPE, thẻ html, head và body để định dạng trang web.
+-Thiết kế header chứa tiêu đề trang và menu navigation sử dụng thẻ table để tạo các liên kết điều hướng đến các phần khác nhau trong trang.
+-Xây dựng phần main content với các section riêng biệt cho thông tin cá nhân, giới thiệu bản thân, danh sách môn học đã học và trang web yêu thích.
+-Sử dụng các thẻ HTML semantic như header, main, section, footer để tạo cấu trúc rõ ràng và các thẻ formatting như font, strong, em để làm nổi bật nội dung.
+-Áp dụng thuộc tính bgcolor, bordercolor, cellpadding cho các thẻ table để tạo màu sắc và layout cho đẹp mắt.
+-Hoàn thiện trang bằng cách thêm footer.

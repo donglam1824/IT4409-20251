@@ -1,0 +1,173 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-top,
+.navbar-top-left,
+.navbar-top-right,
+.navbar-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; /* căn đều 2 bên */
+  align-items: center;
+}
+
+.navbar-top-left {
+  margin-left: 20px;
+}
+
+.navbar-top-right {
+  margin-right: 20px;
+}
+
+.navbar-top-left-text, .navbar-top-right-text {
+  margin-left: 10px;
+}
+
+.navbar-list {
+  margin-right: 20px;
+  padding-bottom: 10px;
+}
+
+ul {
+  list-style: none; /* bỏ dấu chấm đầu dòng */
+}
+
+a {
+  text-decoration: none; /* bỏ gạch chân */
+  color: white;
+}
+
+.box-image {
+  height: 6vw;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+header {
+  background-color: rgb(192, 33, 53);
+  color: white;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  gap: 2vw; /*Khoang cach giua 2 ben*/
+}
+
+.main-left {
+  width: 30vw;
+  margin-left: 5vw;
+  margin-top: 1vw;
+}
+
+.student-card {
+  height: fit-content;
+  position: relative;
+  box-shadow: 0 2px 4px;
+  border-radius: 10px;
+  overflow: hidden; /*An phan cong cua anh ko de len*/
+}
+
+.background-img {
+  position: relative;
+}
+
+.avatar-img {
+  position: absolute;
+  left: 50%; /*Dich sang trai*/
+  transform: translate(-50%, -50%);
+}
+
+.avatar-img img {
+  border-radius: 50%; /*Chuyen tu hcn sang tron*/
+  width: 7vw;
+  object-fit: cover;
+}
+
+.student-info {
+  margin-top: 4vw;
+}
+
+.study-info {
+  height: fit-content;
+  position: relative;
+  box-shadow: 0 2px 4px;
+  border-radius: 10px;
+  margin-top: 2vw;
+}
+
+.study-info-navbar {
+  margin-top: 10px;
+}
+
+.study-info-navbar-list {
+  display: flex;
+  flex-direction: row;  
+  padding: 10px 10px 10px 20px;
+  list-style: none;
+}
+
+.study-info-navbar-list a {
+  color: black;
+  display: inline-block;
+  padding: 8px 12px;  
+  border: 1px solid gray;
+}
+
+.study-info-body {
+  margin-left: 40px;
+  padding-bottom: 10px;
+}
+
+.main-right {
+  width: 60vw;
+  margin-right: 5vw;
+  margin-top: 1vw;
+  position: relative;
+  box-shadow: 0 2px 4px;
+  border-radius: 10px;
+}
+
+.main-right-navbar-list {
+  display: flex;
+  flex-direction: row;  
+  padding: 0 20px;
+  margin: 10px 10px 20px 10px;;
+  list-style: none;
+}
+
+.main-right-navbar-list a {
+  color: black;
+  display: inline-block;
+  padding: 8px 12px;
+  border: 1px solid gray;
+}
+
+.personal_info,
+.family_info {
+  margin-left: 20px;
+}
+
+h3 {
+  text-decoration: solid underline gray;
+}
+
+h4 {
+  font-weight: bold;
+}
+
+.text-block {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.footer-img {
+  width: 100%;
+  object-fit: cover;
+  border-top: 2px solid gray;
+}

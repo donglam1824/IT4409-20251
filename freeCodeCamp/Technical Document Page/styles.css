@@ -1,0 +1,37 @@
+#navbar {
+  position: static; /* tránh che nội dung */
+  width: 100%;
+}
+
+#main-doc {
+  margin-left: 0; /* nếu desktop có sidebar trái */
+  padding: 0 16px;
+}
+
+/* Thu nhỏ/hợp lý hóa logo đầu trang */
+body > img {
+  max-width: 60%;
+  height: auto;
+  display: block;
+  margin: 12px auto;
+}
+
+/* Responsive adjustments: ensure at least one media query is used */
+@media (max-width: 768px) {
+  /* Keep navbar full width and non-overlapping on small screens */
+  #navbar {
+    position: static;
+    width: 100%;
+  }
+
+  /* Tighter padding for main content on small devices */
+  #main-doc {
+    margin-left: 0;
+    padding: 0 12px;
+  }
+
+  /* Slightly smaller images on narrow viewports */
+  body > img {
+    max-width: 50%;
+  }
+}
