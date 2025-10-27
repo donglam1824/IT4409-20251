@@ -3,15 +3,45 @@
 }
 
 .hust-logo {
-    height: 6vw;
+  height: 6vw;
 }
 
 .main {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
 
 .student-image img {
-    height: 10vw;
-    border: 1px solid black;
+  height: 10vw;
+  border: 1px solid black;
+}
+
+.study-record-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 2vw;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.study-record-table th,
+.study-record-table td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+.highlight-a {
+  background-color: #d4edda; /* Màu xanh nhạt cho điểm A */
+}
+
+.highlight-f {
+  background-color: #000000; /* Nền đen */
+  color: #ff4444;
+}
+.highlighted td {
+  transition: background-color 0.2s ease;
 }

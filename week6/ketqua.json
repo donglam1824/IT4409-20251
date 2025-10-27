@@ -1,0 +1,389 @@
+{
+  "ket_qua_hoc_tap": [
+    {
+      "ma_hoc_ki": "20221",
+      "ket_qua": [
+        {
+          "ma_mon": "EM1170",
+          "lop": "135850",
+          "diem_tong_ket": 9,
+          "diem_chu": "B",
+          "diem_so": 6.5
+        },
+        {
+          "ma_mon": "IT2000",
+          "lop": "135903",
+          "diem_tong_ket": 9,
+          "diem_chu": "A",
+          "diem_so": 9
+        },
+        {
+          "ma_mon": "MI1111",
+          "lop": "135893",
+          "diem_tong_ket": 8.5,
+          "diem_chu": "D+",
+          "diem_so": 4
+        },
+        {
+          "ma_mon": "MI1141",
+          "lop": "135896",
+          "diem_tong_ket": 6.5,
+          "diem_chu": "A",
+          "diem_so": 9.5
+        },
+        {
+          "ma_mon": "MIL1230",
+          "lop": "139000",
+          "diem_tong_ket": 8,
+          "diem_chu": "B",
+          "diem_so": 6.5
+        },
+        {
+          "ma_mon": "MIL1240",
+          "lop": "139002",
+          "diem_tong_ket": 9,
+          "diem_chu": "B+",
+          "diem_so": 8
+        },
+        {
+          "ma_mon": "PE1014",
+          "lop": "725936",
+          "diem_tong_ket": null,
+          "diem_chu": "A",
+          "diem_so": 9
+        },
+        {
+          "ma_mon": "SSH1151",
+          "lop": "135899",
+          "diem_tong_ket": 9,
+          "diem_chu": "B+",
+          "diem_so": 7
+        }
+      ]
+    },
+    {
+      "ma_hoc_ki": "20222",
+      "ket_qua": [
+        {
+          "ma_mon": "IT1110",
+          "lop": "140574",
+          "diem_tong_ket": 7,
+          "diem_chu": "B+",
+          "diem_so": 9
+        },
+        {
+          "ma_mon": "MI1121",
+          "lop": "140562",
+          "diem_tong_ket": 9.5,
+          "diem_chu": "A",
+          "diem_so": 8
+        },
+        {
+          "ma_mon": "MIL1210",
+          "lop": "140144",
+          "diem_tong_ket": 8,
+          "diem_chu": "B",
+          "diem_so": 7.5
+        },
+        {
+          "ma_mon": "MIL1220",
+          "lop": "140145",
+          "diem_tong_ket": 7.5,
+          "diem_chu": "C+",
+          "diem_so": 6.5
+        },
+        {
+          "ma_mon": "PH1110",
+          "lop": "140565",
+          "diem_tong_ket": 10,
+          "diem_chu": "A",
+          "diem_so": 8
+        },
+        {
+          "ma_mon": "SSH1111",
+          "lop": "140570",
+          "diem_tong_ket": 9.5,
+          "diem_chu": "A",
+          "diem_so": 8.5
+        }
+      ]
+    },
+    {
+      "ma_hoc_ki": "20231",
+      "ket_qua": [
+        {
+          "ma_mon": "ED3280",
+          "lop": "146217",
+          "diem_tong_ket": 8.5,
+          "diem_chu": "A",
+          "diem_so": 8.5
+        },
+        {
+          "ma_mon": "IT3011",
+          "lop": "144904",
+          "diem_tong_ket": 8.5,
+          "diem_chu": "B",
+          "diem_so": 7
+        },
+        {
+          "ma_mon": "IT3020",
+          "lop": "144870",
+          "diem_tong_ket": 9,
+          "diem_chu": "A",
+          "diem_so": 8.5
+        },
+        {
+          "ma_mon": "IT4480",
+          "lop": "144908",
+          "diem_tong_ket": 9,
+          "diem_chu": "A",
+          "diem_so": 8.5
+        },
+        {
+          "ma_mon": "MI2020",
+          "lop": "144865",
+          "diem_tong_ket": 10,
+          "diem_chu": "A+",
+          "diem_so": 10
+        },
+        {
+          "ma_mon": "MI3052",
+          "lop": "144874",
+          "diem_tong_ket": 8,
+          "diem_chu": "C",
+          "diem_so": 3.5
+        },
+        {
+          "ma_mon": "PE2401",
+          "lop": "733211",
+          "diem_tong_ket": null,
+          "diem_chu": "B",
+          "diem_so": 7
+        },
+        {
+          "ma_mon": "PE2402",
+          "lop": "733221",
+          "diem_tong_ket": null,
+          "diem_chu": "B",
+          "diem_so": 7
+        },
+        {
+          "ma_mon": "PH1120",
+          "lop": "144859",
+          "diem_tong_ket": 8,
+          "diem_chu": "B",
+          "diem_so": 7.5
+        },
+        {
+          "ma_mon": "SSH1141",
+          "lop": "147009",
+          "diem_tong_ket": 9,
+          "diem_chu": "A",
+          "diem_so": 9.5
+        }
+      ]
+    },
+    {
+      "ma_hoc_ki": "20232",
+      "ket_qua": [
+        {
+          "ma_mon": "ED3220",
+          "lop": "150849",
+          "diem_tong_ket": 9.5,
+          "diem_chu": "A",
+          "diem_so": 8.5
+        },
+        {
+          "ma_mon": "IT3030",
+          "lop": "149436",
+          "diem_tong_ket": 9,
+          "diem_chu": "B+",
+          "diem_so": 8
+        },
+        {
+          "ma_mon": "IT3040",
+          "lop": "149434",
+          "diem_tong_ket": 9.5,
+          "diem_chu": "B",
+          "diem_so": 5.5
+        },
+        {
+          "ma_mon": "IT3070",
+          "lop": "149460",
+          "diem_tong_ket": 7,
+          "diem_chu": "C+",
+          "diem_so": 6.5
+        },
+        {
+          "ma_mon": "IT3100",
+          "lop": "149455",
+          "diem_tong_ket": 10,
+          "diem_chu": "C+",
+          "diem_so": 5
+        },
+        {
+          "ma_mon": "IT3160",
+          "lop": "149472",
+          "diem_tong_ket": 9.5,
+          "diem_chu": "B",
+          "diem_so": 6
+        },
+        {
+          "ma_mon": "MI1131",
+          "lop": "149553",
+          "diem_tong_ket": 8.5,
+          "diem_chu": "B",
+          "diem_so": 5.5
+        },
+        {
+          "ma_mon": "PE2251",
+          "lop": "741299",
+          "diem_tong_ket": null,
+          "diem_chu": "D+",
+          "diem_so": 5
+        },
+        {
+          "ma_mon": "SSH1121",
+          "lop": "150932",
+          "diem_tong_ket": 9,
+          "diem_chu": "B",
+          "diem_so": 6
+        }
+      ]
+    },
+    {
+      "ma_hoc_ki": "20241",
+      "ket_qua": [
+        {
+          "ma_mon": "IT2030",
+          "lop": "154008",
+          "diem_tong_ket": 9.5,
+          "diem_chu": "A",
+          "diem_so": 7.5
+        },
+        {
+          "ma_mon": "IT3080",
+          "lop": "154011",
+          "diem_tong_ket": 9,
+          "diem_chu": "A",
+          "diem_so": 8
+        },
+        {
+          "ma_mon": "IT3090",
+          "lop": "154028",
+          "diem_tong_ket": 8,
+          "diem_chu": "B+",
+          "diem_so": 8
+        },
+        {
+          "ma_mon": "IT3150",
+          "lop": "744276",
+          "diem_tong_ket": 9,
+          "diem_chu": "A",
+          "diem_so": 9
+        },
+        {
+          "ma_mon": "IT3180",
+          "lop": "154019",
+          "diem_tong_ket": 8.5,
+          "diem_chu": "B",
+          "diem_so": 6.5
+        },
+        {
+          "ma_mon": "MI1111",
+          "lop": "153318",
+          "diem_tong_ket": 8,
+          "diem_chu": "B+",
+          "diem_so": 8.5
+        },
+        {
+          "ma_mon": "SSH1131",
+          "lop": "156123",
+          "diem_tong_ket": 10,
+          "diem_chu": "A",
+          "diem_so": 8.5
+        }
+      ]
+    },
+    {
+      "ma_hoc_ki": "20242",
+      "ket_qua": [
+        {
+          "ma_mon": "IT3120",
+          "lop": "157532",
+          "diem_tong_ket": 8.5,
+          "diem_chu": "B+",
+          "diem_so": 8
+        },
+        {
+          "ma_mon": "IT3170",
+          "lop": "157519",
+          "diem_tong_ket": 4.5,
+          "diem_chu": "D+",
+          "diem_so": 5.5
+        },
+        {
+          "ma_mon": "IT3190",
+          "lop": "157520",
+          "diem_tong_ket": 8,
+          "diem_chu": "B",
+          "diem_so": 7.5
+        },
+        {
+          "ma_mon": "IT3930",
+          "lop": "750643",
+          "diem_tong_ket": 10,
+          "diem_chu": "A+",
+          "diem_so": 10
+        },
+        {
+          "ma_mon": "IT4015",
+          "lop": "157523",
+          "diem_tong_ket": 9,
+          "diem_chu": "C+",
+          "diem_so": 5
+        },
+        {
+          "ma_mon": "IT4244",
+          "lop": "157515",
+          "diem_tong_ket": 8,
+          "diem_chu": "F",
+          "diem_so": 0
+        },
+        {
+          "ma_mon": "IT4663",
+          "lop": "157528",
+          "diem_tong_ket": 4,
+          "diem_chu": "D",
+          "diem_so": 4.5
+        },
+        {
+          "ma_mon": "ME3123",
+          "lop": "159330",
+          "diem_tong_ket": 10,
+          "diem_chu": "A+",
+          "diem_so": 10
+        },
+        {
+          "ma_mon": "PE2501",
+          "lop": "750460",
+          "diem_tong_ket": null,
+          "diem_chu": "C",
+          "diem_so": 6
+        }
+      ]
+    },
+    {
+      "ma_hoc_ki": "20243",
+      "ket_qua": [
+        {
+          "ma_mon": "IT4991",
+          "lop": "755096",
+          "diem_tong_ket": 9.5,
+          "diem_chu": "A+",
+          "diem_so": 9.5
+        }
+      ]
+    }
+  ]
+}

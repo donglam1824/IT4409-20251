@@ -1,0 +1,249 @@
+{
+  "mon_hoc": [
+    {
+      "ma_mon": "EM1170",
+      "ten_mon": "Pháp luật đại cương",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "IT2000",
+      "ten_mon": "Nhập môn CNTT và TT",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "MI1111",
+      "ten_mon": "Giải tích I",
+      "so_tin_chi": 4
+    },
+    {
+      "ma_mon": "MI1141",
+      "ten_mon": "Đại số",
+      "so_tin_chi": 4
+    },
+    {
+      "ma_mon": "MIL1230",
+      "ten_mon": "Quân sự chung",
+      "so_tin_chi": 0
+    },
+    {
+      "ma_mon": "MIL1240",
+      "ten_mon": "Kỹ thuật chiến đấu bộ binh và chiến thuật",
+      "so_tin_chi": 0
+    },
+    {
+      "ma_mon": "PE1014",
+      "ten_mon": "Lý luận TDTT",
+      "so_tin_chi": 0
+    },
+    {
+      "ma_mon": "SSH1151",
+      "ten_mon": "Tư tưởng Hồ Chí Minh",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "IT1110",
+      "ten_mon": "Tin học đại cương",
+      "so_tin_chi": 4
+    },
+    {
+      "ma_mon": "MI1121",
+      "ten_mon": "Giải tích II",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "MIL1210",
+      "ten_mon": "Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam",
+      "so_tin_chi": 0
+    },
+    {
+      "ma_mon": "MIL1220",
+      "ten_mon": "Công tác quốc phòng và an ninh",
+      "so_tin_chi": 0
+    },
+    {
+      "ma_mon": "PH1110",
+      "ten_mon": "Vật lý đại cương I",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "SSH1111",
+      "ten_mon": "Triết học Mác - Lênin",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "ED3280",
+      "ten_mon": "Tâm lý học ứng dụng",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "IT3011",
+      "ten_mon": "Cấu trúc dữ liệu và thuật toán",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "IT3020",
+      "ten_mon": "Toán rời rạc",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "IT4480",
+      "ten_mon": "Làm việc nhóm và kỹ năng giao tiếp",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "MI2020",
+      "ten_mon": "Xác suất thống kê",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "MI3052",
+      "ten_mon": "Nhập môn các phương pháp tối ưu",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "PE2401",
+      "ten_mon": "Bóng bàn 1",
+      "so_tin_chi": 0
+    },
+    {
+      "ma_mon": "PE2402",
+      "ten_mon": "Bóng bàn 2",
+      "so_tin_chi": 0
+    },
+    {
+      "ma_mon": "PH1120",
+      "ten_mon": "Vật lý đại cương II",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "SSH1141",
+      "ten_mon": "Lịch sử Đảng cộng sản Việt Nam",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "ED3220",
+      "ten_mon": "Kỹ năng mềm",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "IT3030",
+      "ten_mon": "Kiến trúc máy tính",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "IT3040",
+      "ten_mon": "Kỹ thuật lập trình",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "IT3070",
+      "ten_mon": "Nguyên lý hệ điều hành",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "IT3100",
+      "ten_mon": "Lập trình hướng đối tượng",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "IT3160",
+      "ten_mon": "Nhập môn Trí tuệ nhân tạo",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "MI1131",
+      "ten_mon": "Giải tích III",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "PE2251",
+      "ten_mon": "Taekwondo 1",
+      "so_tin_chi": 0
+    },
+    {
+      "ma_mon": "SSH1121",
+      "ten_mon": "Kinh tế chính trị Mác - Lênin",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "IT2030",
+      "ten_mon": "Technical Writing and Presentation",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "IT3080",
+      "ten_mon": "Mạng máy tính",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "IT3090",
+      "ten_mon": "Cơ sở dữ liệu",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "IT3150",
+      "ten_mon": "Project I",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "IT3180",
+      "ten_mon": "Nhập môn công nghệ phần mềm",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "SSH1131",
+      "ten_mon": "Chủ nghĩa xã hội khoa học",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "IT3120",
+      "ten_mon": "Phân tích và thiết kế hệ thống",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "IT3170",
+      "ten_mon": "Thuật toán ứng dụng",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "IT3190",
+      "ten_mon": "Nhập môn Học máy và khai phá dữ liệu",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "IT3930",
+      "ten_mon": "Project II",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "IT4015",
+      "ten_mon": "Nhập môn an toàn thông tin",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "IT4244",
+      "ten_mon": "Quản trị dự án CNTT",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "IT4663",
+      "ten_mon": "Tối ưu lập kế hoạch",
+      "so_tin_chi": 3
+    },
+    {
+      "ma_mon": "ME3123",
+      "ten_mon": "Thiết kế mỹ thuật công nghiệp",
+      "so_tin_chi": 2
+    },
+    {
+      "ma_mon": "PE2501",
+      "ten_mon": "Cầu lông 1",
+      "so_tin_chi": 0
+    },
+    {
+      "ma_mon": "IT4991",
+      "ten_mon": "Thực tập kỹ thuật",
+      "so_tin_chi": 2
+    }
+  ]
+}
